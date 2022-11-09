@@ -27,7 +27,8 @@ body {
   @media all and (max-width: 1023px) {
     .faq_block__title {
       font-size: 24px;
-      line-height: 31px; } }
+      line-height: 31px;
+      margin-bottom: 26px; } }
 
 .faq_block__tit {
   font-family: 'Rubik', sans-serif;
